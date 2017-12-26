@@ -12,22 +12,30 @@ social/gender equality, education... It can be browsed and downloaded   <a href=
 
 - In this project the relation between GDP (Gross Domestic Product)per person and life expectancy at birth is depicted, taken the data from 2015 (last year available). There's a positive relation: with higher GDP per person, higher life expectancy is expected.
 
-- Poorest countries with lowest life expectancy are in Africa.
+- Countries with lowest life expectancy are in Africa.
 
 - A link to a shiny app where it's possible to filter the data by continent and range of life expectancy is included.
 
 Countries with lowest life expectancy
 ========================================================
-
+<small>
 ```{r, message = FALSE}
-#data available at Github
+#data available at Github 
+#https://github.com/gusrezo/worldbankindicators/blob/master/World_Bank_indicators.csv
 library(knitr)
 dat <- read.csv("World_Bank_indicators.csv", header = T, sep=";", na.strings = ".." )
 dat <- na.omit(dat)
 dat$population = as.numeric(gsub(",", "",dat$population, fixed = TRUE))
 dat$GDP_per_person = as.numeric(gsub(",", "",dat$GDP_per_person, fixed = TRUE))
 dat <- dat[order(dat$life_expectancy_at_bird),]
-kable(dat[1:5,1:4], "html", row.names = FALSE)
+
+```
+</small>
+Countries with lowest life expectancy
+========================================================
+
+```{r, message = FALSE}
+kable(dat[1:10,1:4], "html", row.names = FALSE)
 
 ```
 
