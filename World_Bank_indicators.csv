@@ -1,0 +1,200 @@
+country;continent;life_expectancy_at_bird;GDP_per_person;population
+Afghanistan;Asia;63.3;569.6;33,736,494.0
+Albania;Europe;78.2;3,934.9;2,880,703.0
+Algeria;Africa;75.9;4,160.2;39,871,528.0
+American Samoa;Oceania;..;11,866.0;55,537.0
+Andorra;Europe;..;36,038.3;78,014.0
+Angola;Africa;61.2;3,695.8;27,859,305.0
+Antigua and Barbuda;America;76.1;13,659.1;99,923.0
+Argentina;America;76.3;13,467.1;43,417,765.0
+Armenia;Europe;74.2;3,617.9;2,916,950.0
+Australia;Oceania;82.5;56,554.0;23,789,338.0
+Austria;Europe;81.8;44,255.6;8,633,169.0
+Azerbaijan;Europe;71.8;5,500.3;9,649,341.0
+Bahamas, The;America;75.4;29,056.1;386,838.0
+Bahrain;Asia;76.9;22,688.9;1,371,855.0
+Bangladesh;Asia;72.2;1,210.2;161,200,886.0
+Barbados;America;75.6;16,129.0;284,217.0
+Belarus;Europe;73.6;5,949.1;9,489,616.0
+Belgium;Europe;81.3;40,375.4;11,274,196.0
+Belize;America;70.3;4,850.0;359,288.0
+Benin;Africa;60.6;783.9;10,575,952.0
+Bhutan;Asia;69.8;2,615.3;787,386.0
+Bolivia;America;68.7;3,077.0;10,724,705.0
+Bosnia and Herzegovina;Europe;76.6;4,584.2;3,535,961.0
+Botswana;Africa;65.8;6,532.0;2,209,197.0
+Brazil;America;75.2;8,757.2;205,962,108.0
+Brunei Darussalam;Asia;77.1;30,967.9;417,542.0
+Bulgaria;Europe;74.5;6,993.5;7,177,991.0
+Burkina Faso;Africa;59.8;575.3;18,110,624.0
+Burundi;Africa;57.1;300.7;10,199,270.0
+Cabo Verde;Africa;72.4;2,954.1;532,913.0
+Cambodia;Asia;68.5;1,163.2;15,517,635.0
+Cameroon;Africa;57.6;1,353.9;22,834,522.0
+Canada;America;82.1;43,315.7;59,963.0
+Central African Republic;Africa;51.4;348.4;4,546,100.0
+Chad;Africa;52.6;777.2;163,758.0
+Chile;America;79.2;13,653.2;17,762,681.0
+China;Asia;76.1;8,069.2;1,371,220,000.0
+Colombia;America;74.2;6,044.5;48,228,697.0
+Comoros;Africa;63.5;727.6;777,424.0
+Congo, Dem. Rep.;Africa;59.2;474.9;76,196,619.0
+Congo, Rep.;Africa;64.1;1,712.1;4,995,648.0
+Costa Rica;America;79.6;11,406.4;4,807,852.0
+Cote d'Ivoire;Africa;53.1;1,434.3;23,108,472.0
+Croatia;Europe;77.3;11,638.1;4,203,604.0
+Cuba;America;79.5;7,602.3;157,979.0
+Cyprus;Europe;80.3;23,075.1;1,160,985.0
+Czech Republic;Europe;79.5;17,715.6;10,546,059.0
+Denmark;Europe;81.1;53,013.0;5,683,483.0
+Djibouti;Africa;62.2;1,862.2;927,414.0
+Dominica;America;..;7,313.8;73,162.0
+Dominican Republic;America;73.7;6,468.5;10,528,394.0
+Ecuador;America;76.1;6,150.2;16,144,368.0
+Egypt, Arab Rep.;Africa;71.3;3,547.7;93,778,172.0
+El Salvador;America;73.0;4,127.1;6,312,478.0
+Equatorial Guinea;Africa;57.5;10,717.5;..
+Estonia;Europe;77.1;17,155.9;1,315,407.0
+Ethiopia;Africa;65.0;645.5;99,873,033.0
+Faroe Islands;Europe;81.6;50,582.0;48,965.0
+Fiji;Oceania;70.2;4,922.0;892,149.0
+Finland;Europe;81.4;42,419.6;5,479,531.0
+France;Europe;82.7;36,526.8;277,690.0
+Gabon;Africa;65.7;7,389.0;1,930,175.0
+Gambia, The;Africa;61.0;459.0;1,977,590.0
+Georgia;Europe;73.0;3,764.6;3,717,100.0
+Germany;Europe;81.1;41,323.9;81,686,611.0
+Ghana;Africa;62.4;1,361.1;34,228.0
+Greece;Europe;81.6;18,070.8;10,820,883.0
+Greenland;Europe;..;39,569.1;56,114.0
+Grenada;America;73.5;9,333.3;106,823.0
+Guam;Oceania;79.4;35,210.8;161,797.0
+Guatemala;America;73.0;3,923.6;16,252,429.0
+Guinea;Africa;59.4;725.1;12,091,533.0
+Guinea-Bissau;Africa;57.0;585.2;1,770,526.0
+Guyana;Africa;66.5;4,160.3;768,514.0
+Haiti;America;63.0;814.5;10,711,061.0
+Honduras;America;73.3;2,326.2;8,960,829.0
+Hong Kong SAR, China;Asia;84.3;42,351.0;7,305,700.0
+Hungary;Europe;76.0;12,483.9;9,843,028.0
+Iceland;Europe;82.9;50,734.4;330,815.0
+India;Asia;68.3;1,596.5;1,309,053,980.0
+Indonesia;Asia;69.0;3,336.1;258,162,113.0
+Iran, Islamic Rep.;Asia;75.7;4,862.3;79,360,487.0
+Iraq;Asia;69.6;4,974.0;36,115,649.0
+Ireland;Europe;81.5;62,139.7;4,676,835.0
+Isle of Man;Europe;..;81,672.0;83,167.0
+Israel;Asia;82.1;35,691.3;8,380,100.0
+Italy;Europe;83.5;30,171.7;60,730,582.0
+Jamaica;America;75.8;4,939.8;2,871,934.0
+Japan;Asia;83.8;34,474.1;127,141,000.0
+Jordan;Asia;74.2;4,096.1;9,159,302.0
+Kazakhstan;Asia;72.0;10,510.0;17,544,126.0
+Kenya;Africa;66.6;1,350.0;47,236,259.0
+Kiribati;Oceania;66.1;1,504.7;25,243,917.0
+Korea, Rep.;Asia;82.2;27,105.1;51,014,947.0
+Kosovo;Europe;71.3;3,574.5;1,801,800.0
+Kuwait;Asia;74.7;29,109.1;3,935,794.0
+Kyrgyz Republic;Asia;70.7;1,121.1;5,956,900.0
+Lao PDR;Asia;66.3;2,159.4;6,663,967.0
+Latvia;Europe;74.1;13,658.1;1,977,527.0
+Lebanon;Asia;79.5;8,452.4;5,851,479.0
+Lesotho;Africa;53.6;1,152.3;2,174,645.0
+Liberia;Africa;62.0;452.0;6,234,955.0
+Liechtenstein;Europe;82.1;168,146.0;37,403.0
+Lithuania;Europe;75.1;14,252.4;2,904,910.0
+Luxembourg;Europe;82.2;101,446.8;569,604.0
+Macao SAR, China;Asia;83.6;75,573.5;600,942.0
+Macedonia, FYR;Europe;75.5;4,834.1;2,079,308.0
+Madagascar;Africa;65.5;402.1;24,234,088.0
+Malawi;Africa;62.5;362.7;17,573,607.0
+Malaysia;Asia;75.2;9,648.6;30,723,155.0
+Maldives;Asia;77.1;9,792.0;409,163.0
+Mali;Africa;57.5;750.0;17,467,905.0
+Malta;Europe;81.9;23,816.1;431,874.0
+Marshall Islands;Oceania;..;3,390.9;52,994.0
+Mauritania;Africa;63.0;1,158.3;4,182,341.0
+Mauritius;Africa;74.4;9,260.4;1,262,605.0
+Mexico;America;76.9;9,152.9;125,890,949.0
+Micronesia, Fed. Sts.;Oceania;69.0;3,018.0;104,433.0
+Moldova;Europe;71.4;1,832.5;38,307.0
+Mongolia;Asia;69.1;3,947.0;2,976,877.0
+Montenegro;Europe;76.9;6,514.3;622,159.0
+Morocco;Africa;75.5;2,847.3;34,803,322.0
+Mozambique;Africa;57.6;528.3;28,010,691.0
+Myanmar;Asia;66.4;1,139.0;52,403,669.0
+Namibia;Africa;63.6;4,770.5;2,425,561.0
+Nauru;Oceania;..;8,052.9;12,475.0
+Nepal;Asia;69.9;747.2;28,656,282.0
+Netherlands;Europe;81.7;44,746.3;273,000.0
+New Zealand;Oceania;81.5;38,201.6;4,595,700.0
+Nicaragua;America;75.0;2,096.0;6,082,035.0
+Niger;Africa;59.7;362.8;19,896,965.0
+Nigeria;Africa;53.0;2,655.2;181,181,744.0
+Northern Mariana Islands;Oceania;..;17,020.6;54,816.0
+Norway;Europe;82.1;74,521.6;5,188,607.0
+Oman;Asia;77.1;16,627.4;4,199,810.0
+Pakistan;Asia;66.3;1,428.6;189,380,513.0
+Palau;Oceania;..;13,981.8;21,288.0
+Panama;America;77.8;13,134.0;3,969,249.0
+Papua New Guinea;Oceania;65.4;2,659.3;7,919,825.0
+Paraguay;America;73.0;4,109.4;6,639,119.0
+Peru;America;74.7;6,030.3;31,376,671.0
+Philippines;Asia;69.0;2,878.3;101,716,359.0
+Poland;Europe;78.2;12,564.5;37,986,412.0
+Portugal;Europe;81.5;19,252.6;3,473,181.0
+Qatar;Asia;78.5;66,346.5;2,481,539.0
+Romania;Europe;75.0;8,978.4;19,815,481.0
+Russian Federation;Europe;70.9;9,329.3;144,096,870.0
+Rwanda;Africa;66.6;710.3;11,629,553.0
+Samoa;Oceania;74.8;4,149.4;193,759.0
+San Marino;Europe;..;47,611.0;32,960.0
+Sao Tome and Principe;Africa;66.4;1,615.3;195,553.0
+Saudi Arabia;Asia;74.6;20,653.2;31,557,144.0
+Senegal;Africa;66.7;910.8;14,976,994.0
+Serbia;Europe;75.5;5,237.3;7,095,383.0
+Seychelles;Africa;73.2;15,390.0;93,419.0
+Sierra Leone;Africa;51.4;587.5;7,237,025.0
+Singapore;Asia;82.6;53,629.7;38,824.0
+Slovak Republic;Europe;77.2;16,132.9;5,423,801.0
+Slovenia;Europe;81.1;20,873.2;2,063,531.0
+Solomon Islands;Oceania;70.5;1,922.0;587,482.0
+Somalia;Africa;55.9;426.0;13,908,129.0
+South Africa;Africa;61.9;5,773.5;55,011,976.7
+South Sudan;Africa;56.3;758.7;11,882,136.0
+Spain;Europe;83.4;25,787.9;46,447,697.0
+Sri Lanka;Asia;75.0;3,844.9;20,966,000.0
+St. Kitts and Nevis;America;..;16,178.2;54,288.0
+St. Lucia;America;75.3;9,306.4;31,754.0
+St. Vincent and the Grenadines;America;73.1;6,899.7;109,455.0
+Sudan;Africa;64.2;2,513.9;38,647,803.0
+Suriname;America;71.3;8,724.7;553,208.0
+Swaziland;Africa;56.9;3,047.9;1,319,011.0
+Sweden;Europe;82.6;50,812.2;9,799,186.0
+Switzerland;Europe;83.2;82,016.0;18,734,987.0
+Tajikistan;Asia;71.0;918.7;8,548,651.0
+Tanzania;Africa;64.9;872.3;53,879,957.0
+Thailand;Asia;75.1;5,814.9;68,657,600.0
+Timor-Leste;Asia;68.6;1,294.5;1,240,977.0
+Togo;Africa;59.9;551.1;7,416,802.0
+Tonga;Oceania;72.8;4,093.8;106,364.0
+Trinidad and Tobago;America;70.6;17,321.8;1,360,092.0
+Tunisia;Africa;75.5;3,828.1;11,273,661.0
+Turkey;Europe;75.4;10,984.8;78,271,472.0
+Turkmenistan;Asia;67.6;6,432.7;34,339.0
+Tuvalu;Oceania;..;2,970.0;11,001.0
+Uganda;Africa;59.5;674.0;40,144,870.0
+Ukraine;Europe;71.2;2,124.7;45,154,029.0
+United Arab Emirates;Asia;77.5;39,101.7;9,154,302.0
+United Kingdom;Europe;81.6;44,305.6;65,128,861.0
+United States;America;78.7;56,469.0;320,896,618.0
+Uruguay;America;77.1;15,524.8;3,431,552.0
+Uzbekistan;Asia;71.1;2,137.6;31,298,900.0
+Vanuatu;Oceania;72.0;2,805.8;31,155,134.0
+Vietnam;Asia;75.9;2,107.0;91,713,300.0
+Virgin Islands (U.S.);America;79.9;36,350.8;103,574.0
+West Bank and Gaza;Asia;73.3;2,865.8;4,422,143.0
+Yemen, Rep.;Asia;64.7;1,401.9;26,916,207.0
+Zambia;Africa;61.3;1,313.9;16,100,587.0
+Zimbabwe;Africa;60.3;1,033.4;15,777,451.0
+;;;;

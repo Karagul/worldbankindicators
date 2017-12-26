@@ -1,0 +1,45 @@
+World Bank Indicators
+========================================================
+author: Carlos Plaza
+date: 26-dic-2017
+autosize: true
+
+Summary
+========================================================
+
+- The World Bank collects a lot of data for tracking the development of nations: income, investment, poverty, 
+social/gender equality, education... It can be browsed and downloaded   <a href="https://data.worldbank.org/" target="_blank">here</a>.
+
+- In this project the relation between GDP (Gross Domestic Product)per person and life expectancy at birth is depicted, taken the data from 2015 (last year available). There's a positive relation: with higher GDP per person, higher life expectancy is expected.
+
+- Poorest countries with lowest life expectancy are in Africa.
+
+- A link to a shiny app where it's possible to filter the data by continent and range of life expectancy is included.
+
+Countries with lowest life expectancy
+========================================================
+
+```{r, message = FALSE}
+#data available at Github
+library(knitr)
+dat <- read.csv("World_Bank_indicators.csv", header = T, sep=";", na.strings = ".." )
+dat <- na.omit(dat)
+dat$population = as.numeric(gsub(",", "",dat$population, fixed = TRUE))
+dat$GDP_per_person = as.numeric(gsub(",", "",dat$GDP_per_person, fixed = TRUE))
+dat <- dat[order(dat$life_expectancy_at_bird),]
+kable(dat[1:5,1:4], "html", row.names = FALSE)
+
+```
+
+Relation between GDP (log scale) and life expectancy
+========================================================
+
+```{r, echo = FALSE, message = FALSE}
+library(ggplot2)
+g <- ggplot(dat, aes(x= log(GDP_per_person), y=life_expectancy_at_bird)) + 
+    geom_point(aes(color=as.factor(dat$continent))) + labs(color = "Continent")
+   
+g
+```
+
+Full shiny app <a href="https://cplesp.shinyapps.io/worldbank" target="_blank">here</a>.
